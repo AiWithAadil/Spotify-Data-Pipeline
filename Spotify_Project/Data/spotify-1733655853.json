@@ -1,0 +1,12 @@
+{
+    "timestamp": 1733655853,
+    "logGroupName": "/spotify-data-log",
+    "logStreamName": "spotify",
+    "logEvents": [
+        {
+            "id": "38661817036831299799700799663456870964640601368453447680",
+            "timestamp": 1733655834935,
+            "message": "No artists found or data issue."
+        }
+    ]
+}
